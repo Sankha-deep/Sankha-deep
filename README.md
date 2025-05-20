@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sankha-deep
-- 👀 I’m interested in ... game development
+- 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...basic coding skills
 
 <!---
